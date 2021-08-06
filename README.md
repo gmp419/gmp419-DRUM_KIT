@@ -1,1 +1,1 @@
-# gmp419-DRUM_KIT
+# Create a simple drum kit with javascript and jquery
